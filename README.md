@@ -18,4 +18,4 @@ The Weather Dashboard project is a simple web application that allows users to s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Manik-28/weather-project-1
